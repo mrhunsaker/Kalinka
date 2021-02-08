@@ -1,0 +1,491 @@
+{\rtf1\ansi\ansicpg1252{\fonttbl{\f0\froman\fcharset0 Times New Roman;}{\f1\fswiss\fcharset0 Arial;}{\f2\fswiss\fcharset0 Arial;}{\f3\froman\fcharset0 DejaVu Serif Condensed;}{\f4\fswiss\fcharset0 DejaVu Sans Condensed;}{\f5\fswiss\fcharset0 DejaVu Sans Condensed;}}{\colortbl ;\red0 \green0 \blue0;\red128 \green128 \blue128;\red252 \green252 \blue252;\red255 \green255 \blue255;\red255 \green255 \blue255;}{\stylesheet{\fs22\f5\sqformat\spriority1 Normal}{\s1\li2272\sb47\f5\fs20\sbasedon0\sqformat\spriority1 Body Text}{\s2\qc\sb70\outlinelevel0\f3\fs28\b1\sbasedon0\sqformat\spriority1 Heading 1}{\s3\sl-1680\f1\fs168\sbasedon0\sqformat\spriority1 Title}{\s4\sbasedon0\sqformat\spriority1 List Paragraph}{\s5\qr\sb7\f5\sbasedon0\sqformat\spriority1 Table Paragraph}}{\info{\author solstice.dhiver@sorobanexam.org}{\creatim\yr2021\mo1\dy17\hr20\min3\sec33}{\revtim\yr2021\mo2\dy4\hr16\min57\sec56}{\subject (unspecified)}{\title Exercises for 3rd kyu exam [Moritomo]}}{\*\userprops {\propname Creator}\proptype30{\staticval (unspecified)}}\jexpand\dntblnsbdb\viewkind1\noxlattoyen\nospaceforul\useltbaln\paperw12240\paperh15840\margl180\margr180\margt180\margb0\noindnmbrts\sectd\sbknone
+{\shp{\*\shpinst\shpleft4744\shpright6424\shptop-688\shpbottom16493\shpbxpage\shpbypage\shpwr3\shpfblwtxt1\shpz1\shplid697{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 136}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn rotation}{\sv 19988480}}
+{\sp{\sn gtextUNICODE}{\sv www.sorobanexam.org}}
+{\sp{\sn gtextSize}{\sv 5505024}}
+{\sp{\sn gtextFont}{\sv Arial}}
+{\sp{\sn gtextFReverseRows}{\sv 0}}
+{\sp{\sn fGtext}{\sv 1}}
+{\sp{\sn gtextFVertical}{\sv 0}}
+{\sp{\sn gtextFKern}{\sv 1}}
+{\sp{\sn gtextFTight}{\sv 0}}
+{\sp{\sn gtextFStretch}{\sv 1}}
+{\sp{\sn gtextFShrinkFit}{\sv 0}}
+{\sp{\sn gtextFBestFit}{\sv 0}}
+{\sp{\sn gtextFNormalize}{\sv 0}}
+{\sp{\sn gtextFDxMeasure}{\sv 0}}
+{\sp{\sn gtextFBold}{\sv 0}}
+{\sp{\sn gtextFItalic}{\sv 0}}
+{\sp{\sn gtextFUnderline}{\sv 0}}
+{\sp{\sn gtextFShadow}{\sv 0}}
+{\sp{\sn gtextFSmallcaps}{\sv 0}}
+{\sp{\sn gtextFStrikethrough}{\sv 0}}
+{\sp{\sn fColumnLineOK}{\sv 0}}
+{\sp{\sn fillColor}{\sv 16579836}}
+{\sp{\sn fRecolorFillAsPicture}{\sv 0}}
+{\sp{\sn fUseShapeAnchor}{\sv 0}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fHitTestFill}{\sv 1}}
+{\sp{\sn fillShape}{\sv 1}}
+{\sp{\sn fillUseRect}{\sv 0}}
+{\sp{\sn fLineUseShapeAnchor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn shadowColor}{\sv 8816262}}
+{\sp{\sn fShadow}{\sv 0}}
+{\sp{\sn fshadowObscured}{\sv 0}}
+{\sp{\sn fc3DConstrainRotation}{\sv 1}}
+{\sp{\sn fc3DRotationCenterAuto}{\sv 1}}
+{\sp{\sn fAllowOverlap}{\sv 1}}}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\qc\sl240\slmult1\sb78\f4\fs18\b0\i1 Exercises for 3rd kyu exam [Moritomo]\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb3\f4\fs20\b0\i1\par\pard\plain\s2\nooverflow\nocwrap\lnbrkrule\qc\sl240\slmult1\f3\fs28\b1 Addition - Subtraction\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li57\qc\sl240\slmult1\sb9\sa51\tx1212\tx2367\tx3523\tx4678\tx5834\tx6989\tx8145\tx9247\tx10292\f5\fs20\b0\cf2 (1)\tab (2)\tab (3)\tab (4)\tab (5)\tab (6)\tab (7)\tab (8)\tab (9)\tab (10)\par
+\trowd\irow0\trgaph0\trrh288\trql\trleft217
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx1372
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2527
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3682
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4837
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5992
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7147
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8302
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9457
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10505
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx11660
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri113\qr\sl240\slmult1\sb32\f5\fs20\b0 793,348\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb32\f5\fs20\b0 680,107\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb32\f5\fs20\b0 899,237\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb32\f5\fs20\b0 665,295\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb32\f5\fs20\b0 869,332\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb32\f5\fs20\b0 777,042\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li208\ri27\qc\sl240\slmult1\sb32\f5\fs20\b0 603,179\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb32\f5\fs20\b0 400,616\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li102\ri26\qc\sl240\slmult1\sb32\f5\fs20\b0 213,868\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri108\qr\sl240\slmult1\sb32\f5\fs20\b0 210,486\cell}\row
+\trowd\irow1\trgaph0\trrh280\trql\trleft217
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx1372
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2527
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3682
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4837
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5992
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7147
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8302
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9457
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10505
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx11660
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri113\qr\sl240\slmult1\sb23\f5\fs20\b0 270,062\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 377,334\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 877,572\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 549,780\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 -616,446\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 553,250\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li208\ri92\qc\sl240\slmult1\sb23\f5\fs20\b0 -424,824\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 262,924\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li102\ri26\qc\sl240\slmult1\sb23\f5\fs20\b0 414,577\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri108\qr\sl240\slmult1\sb23\f5\fs20\b0 207,276\cell}\row
+\trowd\irow2\trgaph0\trrh280\trql\trleft217
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx1372
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2527
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3682
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4837
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5992
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7147
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8302
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9457
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10505
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx11660
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri113\qr\sl240\slmult1\sb23\f5\fs20\b0 319,306\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 887,562\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 -852,360\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 316,029\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 920,224\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 904,254\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li208\ri92\qc\sl240\slmult1\sb23\f5\fs20\b0 -129,399\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 221,314\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li102\ri26\qc\sl240\slmult1\sb23\f5\fs20\b0 379,369\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri108\qr\sl240\slmult1\sb23\f5\fs20\b0 501,623\cell}\row
+\trowd\irow3\trgaph0\trrh280\trql\trleft217
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx1372
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2527
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3682
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4837
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5992
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7147
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8302
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9457
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10505
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx11660
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri113\qr\sl240\slmult1\sb23\f5\fs20\b0 857,287\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 957,990\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 -151,146\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 795,963\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 627,774\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 374,232\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li208\ri27\qc\sl240\slmult1\sb23\f5\fs20\b0 807,174\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 833,376\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li102\ri26\qc\sl240\slmult1\sb23\f5\fs20\b0 996,835\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri108\qr\sl240\slmult1\sb23\f5\fs20\b0 124,762\cell}\row
+\trowd\irow4\trgaph0\trrh280\trql\trleft217
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx1372
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2527
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3682
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4837
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5992
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7147
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8302
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9457
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10505
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx11660
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri113\qr\sl240\slmult1\sb23\f5\fs20\b0 790,275\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 175,964\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 126,635\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 497,751\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 -623,694\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 242,918\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li208\ri27\qc\sl240\slmult1\sb23\f5\fs20\b0 762,626\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 651,003\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li102\ri26\qc\sl240\slmult1\sb23\f5\fs20\b0 498,853\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri108\qr\sl240\slmult1\sb23\f5\fs20\b0 574,424\cell}\row
+\trowd\irow5\trgaph0\trrh280\trql\trleft217
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx1372
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2527
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3682
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4837
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5992
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7147
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8302
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9457
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10505
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx11660
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri113\qr\sl240\slmult1\sb23\f5\fs20\b0 359,256\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 773,577\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 522,888\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 145,611\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 170,994\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 874,239\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li208\ri92\qc\sl240\slmult1\sb23\f5\fs20\b0 -810,648\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 146,050\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li102\ri91\qc\sl240\slmult1\sb23\f5\fs20\b0 -792,497\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri108\qr\sl240\slmult1\sb23\f5\fs20\b0 619,994\cell}\row
+\trowd\irow6\trgaph0\trrh280\trql\trleft217
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx1372
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2527
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3682
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4837
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5992
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7147
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8302
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9457
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10505
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx11660
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri113\qr\sl240\slmult1\sb23\f5\fs20\b0 389,153\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 460,112\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 713,874\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 856,432\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 -643,537\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 995,764\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li208\ri27\qc\sl240\slmult1\sb23\f5\fs20\b0 171,962\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 522,293\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li102\ri91\qc\sl240\slmult1\sb23\f5\fs20\b0 -725,113\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri108\qr\sl240\slmult1\sb23\f5\fs20\b0 977,293\cell}\row
+\trowd\irow7\trgaph0\trrh280\trql\trleft217
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx1372
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2527
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3682
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4837
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5992
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7147
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8302
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9457
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10505
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx11660
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri113\qr\sl240\slmult1\sb23\f5\fs20\b0 766,137\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 580,893\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 -388,536\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 844,465\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 373,121\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 863,166\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li208\ri27\qc\sl240\slmult1\sb23\f5\fs20\b0 872,913\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 897,706\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li102\ri26\qc\sl240\slmult1\sb23\f5\fs20\b0 480,017\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri108\qr\sl240\slmult1\sb23\f5\fs20\b0 514,696\cell}\row
+\trowd\irow8\trgaph0\trrh280\trql\trleft217
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx1372
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2527
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3682
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4837
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5992
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7147
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8302
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9457
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10505
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx11660
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri113\qr\sl240\slmult1\sb23\f5\fs20\b0 820,699\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 121,922\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 -231,240\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 843,629\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 895,072\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 488,017\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li208\ri27\qc\sl240\slmult1\sb23\f5\fs20\b0 628,521\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 683,980\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li102\ri91\qc\sl240\slmult1\sb23\f5\fs20\b0 -575,569\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri108\qr\sl240\slmult1\sb23\f5\fs20\b0 753,569\cell}\row
+\trowd\irow9\trgaph0\trrh306\trql\trleft217
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx1372
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx2527
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx3682
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx4837
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx5992
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx7147
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx8302
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx9457
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx10505
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx11660
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri113\qr\sl240\slmult1\sb23\f5\fs20\b0 457,948\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 326,654\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri112\qr\sl240\slmult1\sb23\f5\fs20\b0 829,492\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 372,730\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri111\qr\sl240\slmult1\sb23\f5\fs20\b0 -474,335\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 484,760\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li208\ri92\qc\sl240\slmult1\sb23\f5\fs20\b0 -843,366\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri110\qr\sl240\slmult1\sb23\f5\fs20\b0 802,569\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li102\ri91\qc\sl240\slmult1\sb23\f5\fs20\b0 -555,983\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri108\qr\sl240\slmult1\sb23\f5\fs20\b0 960,299\cell}\row
+\trowd\irow10\trgaph0\trrh355\trql\trleft217
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx1372
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx2527
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx3682
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx4837
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx5992
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx7147
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx8302
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx9457
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx10505
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx11660
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li101\ri92\qc\sl240\slmult1\sb72\f5\fs20\b0\cf4 1,638,138\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\cell}\row\pard\pard\plain\s2\nooverflow\nocwrap\lnbrkrule\qc\sl240\slmult1\sb128\f3\fs28\b1 Multiplication\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2373\sl240\slmult1\sb8\tx2983\tx6684\tx7293\f5\fs20\b0\cf2 (11)\tab \f5\fs20\b0\i0\cf1 9,524 x 899 =\tab \f5\fs20\b0\i0\cf2 (21)\tab \f5\fs20\b0\i0\cf1 3,598 x 714 =\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2373\sl240\slmult1\sb48\tx2983\tx6684\tx7293\f5\fs20\b0\cf2 (12)\tab \f5\fs20\b0\i0\cf1 59,908 x 96 =\tab \f5\fs20\b0\i0\cf2 (22)\tab \f5\fs20\b0\i0\cf1 609 x 6,448 =\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2373\sl240\slmult1\sb47\tx2983\tx6684\tx7293\f5\fs20\b0\cf2 (13)\tab \f5\fs20\b0\i0\cf1 1.931 x 26.7 =\tab \f5\fs20\b0\i0\cf2 (23)\tab \f5\fs20\b0\i0\cf1 1,379 x 0.971 =\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2373\sl240\slmult1\sb47\tx2983\tx6684\tx7293\f5\fs20\b0\cf2 (14)\tab \f5\fs20\b0\i0\cf1 2,532 x 752 =\tab \f5\fs20\b0\i0\cf2 (24)\tab \f5\fs20\b0\i0\cf1 7,858 x 695 =\par
+{\shp{\*\shpinst\shpleft11792\shpright12011\shptop239\shpbottom3466\shpbxpage\shpbypara\shpwr3\shpfblwtxt0\shpz0\shplid693
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 2}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li20\sl240\slmult1\sb14\f1\fs16\b0 \'A9 2010-2021 sorobanexam.org (cc) by-nc-sa\par}}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2373\sl240\slmult1\sb47\tx2983\tx6684\tx7293\f5\fs20\b0\cf2 (15)\tab \f5\fs20\b0\i0\cf1 0.2514 x 0.501 =\tab \f5\fs20\b0\i0\cf2 (25)\tab \f5\fs20\b0\i0\cf1 1,483 x 27.8 =\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2373\sl240\slmult1\sb47\tx2983\tx6684\tx7293\f5\fs20\b0\cf2 (16)\tab \f5\fs20\b0\i0\cf1 53.7 x 329.2 =\tab \f5\fs20\b0\i0\cf2 (26)\tab \f5\fs20\b0\i0\cf1 8,636 x 65.7 =\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2373\sl240\slmult1\sb48\tx2983\tx6684\tx7293\f5\fs20\b0\cf2 (17)\tab \f5\fs20\b0\i0\cf1 9,730 x 834 =\tab \f5\fs20\b0\i0\cf2 (27)\tab \f5\fs20\b0\i0\cf1 4,196 x 0.041 =\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2373\sl240\slmult1\sb47\tx2983\tx6684\tx7293\f5\fs20\b0\cf2 (18)\tab \f5\fs20\b0\i0\cf1 8,937 x 0.061 =\tab \f5\fs20\b0\i0\cf2 (28)\tab \f5\fs20\b0\i0\cf1 63,893 x 15 =\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2373\sl240\slmult1\sb47\tx2983\tx6684\tx7293\f5\fs20\b0\cf2 (19)\tab \f5\fs20\b0\i0\cf1 9,351 x 395 =\tab \f5\fs20\b0\i0\cf2 (29)\tab \f5\fs20\b0\i0\cf1 4,245 x 0.395 =\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2373\sl240\slmult1\sb47\tx2983\tx6684\tx7293\f5\fs20\b0\cf2 (20)\tab \f5\fs20\b0\i0\cf1 2,050 x 22.7 =\tab \f5\fs20\b0\i0\cf2 (30)\tab \f5\fs20\b0\i0\cf1 8,614 x 481 =\par\pard\plain\s2\nooverflow\nocwrap\lnbrkrule\qc\sl240\slmult1\sb70\f3\fs28\b1 Division\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2272\sl240\slmult1\sb8\tx2881\tx6626\tx7236\f5\fs20\b0\cf2 (31)\tab \f5\fs20\b0\i0\cf1 435,078 \'F7 189 =\tab \f5\fs20\b0\i0\cf2 (41)\tab \f5\fs20\b0\i0\cf1 13,920 \'F7 464 =\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2272\sl240\slmult1\sb48\tx2881\tx6626\tx7236\f5\fs20\b0\cf2 (32)\tab \f5\fs20\b0\i0\cf1 933,391 \'F7 491 =\tab \f5\fs20\b0\i0\cf2 (42)\tab \f5\fs20\b0\i0\cf1 919,094 \'F7 11 =\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2272\sl240\slmult1\sb47\tx2881\tx6626\tx7236\f5\fs20\b0\cf2 (33)\tab \f5\fs20\b0\i0\cf1 0.8004 \'F7 2.35 =\tab \f5\fs20\b0\i0\cf2 (43)\tab \f5\fs20\b0\i0\cf1 177 \'F7 0.801 =\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2272\sl240\slmult1\sb47\tx2881\tx6626\tx7236\f5\fs20\b0\cf2 (34)\tab \f5\fs20\b0\i0\cf1 944,445 \'F7 1,185 =\tab \f5\fs20\b0\i0\cf2 (44)\tab \f5\fs20\b0\i0\cf1 876,600 \'F7 300 =\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2272\sl240\slmult1\sb47\tx2881\tx6626\tx7236\f5\fs20\b0\cf2 (35)\tab \f5\fs20\b0\i0\cf1 0.538 \'F7 0.44 =\tab \f5\fs20\b0\i0\cf2 (45)\tab \f5\fs20\b0\i0\cf1 29 \'F7 0.047 =\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2272\sl240\slmult1\sb47\tx2881\tx6626\tx7236\f5\fs20\b0\cf2 (36)\tab \f5\fs20\b0\i0\cf1 945,004 \'F7 124 =\tab \f5\fs20\b0\i0\cf2 (46)\tab \f5\fs20\b0\i0\cf1 39,652 \'F7 1,724 =\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2272\sl240\slmult1\sb48\tx2881\tx6626\tx7236\f5\fs20\b0\cf2 (37)\tab \f5\fs20\b0\i0\cf1 8.9613 \'F7 0.042 =\tab \f5\fs20\b0\i0\cf2 (47)\tab \f5\fs20\b0\i0\cf1 404,064 \'F7 414 =\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2272\sl240\slmult1\sb47\tx2881\tx6626\tx7236\f5\fs20\b0\cf2 (38)\tab \f5\fs20\b0\i0\cf1 0.004814 \'F7 5.4 =\tab \f5\fs20\b0\i0\cf2 (48)\tab \f5\fs20\b0\i0\cf1 95,536 \'F7 27.6 =\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2272\sl240\slmult1\sb47\tx2881\tx6626\tx7236\f5\fs20\b0\cf2 (39)\tab \f5\fs20\b0\i0\cf1 477,044 \'F7 499 =\tab \f5\fs20\b0\i0\cf2 (49)\tab \f5\fs20\b0\i0\cf1 94 \'F7 0.325 =\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2272\sl240\slmult1\sb47\tx2881\tx6626\tx7236\f5\fs20\b0\cf2 (40)\tab \f5\fs20\b0\i0\cf1 248,976 \'F7 494 =\tab \f5\fs20\b0\i0\cf2 (50)\tab \f5\fs20\b0\i0\cf1 37,170 \'F7 80.8 =\par\pard\plain\s2\nooverflow\nocwrap\lnbrkrule\qc\sl240\slmult1\sb70\sa37\f3\fs28\b1 Answers\par
+\trowd\irow0\trgaph0\trrh243\trql\trleft1196
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2210
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3152
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4055
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5012
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5949
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx6891
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7833
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8806
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9701
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10714
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li97\sl-173\sb50\f5\fs16\b0\cf2 (1) \uc1\u9733 ?\uc1\u9733 ?\uc1\u9733 ?\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li56\sl-173\sb50\f5\fs16\b0\cf2 (2) \uc1\u9733 ?\uc1\u9733 ?\uc1\u9733 ?\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri149\qr\sl-173\sb50\f5\fs16\b0\charscalex115\cf2 (3) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li51\ri57\qc\sl-173\sb50\f5\fs16\b0\cf2 (4) \uc1\u9733 ?\uc1\u9733 ?\uc1\u9733 ?\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li199\sl-173\sb50\f5\fs16\b0\charscalex115\cf2 (5) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li263\sl-173\sb50\f5\fs16\b0\charscalex120\cf2 (6) \f5\fs16\b0\i0\charscalex135 \uc1\u9733 ?\'96\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri37\qr\sl-173\sb50\f5\fs16\b0\charscalex115\cf2 (7) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li324\sl-173\sb50\f5\fs16\b0\charscalex120\cf2 (8) \f5\fs16\b0\i0\expnd-8\expndtw-39\charscalex135 \uc1\u9733 ?\'96\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri37\qr\sl-173\sb50\f5\fs16\b0\cf2 (9) \uc1\u9733 ?\uc1\u9733 ?\uc1\u9733 ?\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri51\qr\sl-173\sb50\f5\fs16\b0\charscalex110\cf2 (10) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}\row
+\trowd\irow1\trgaph0\trrh200\trql\trleft1196
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2210
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3152
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4055
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5012
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5949
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx6891
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7833
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8806
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9701
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10714
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li50\sl-173\sb7\f5\fs16\b0 5,823,471\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li8\sl-173\sb7\f5\fs16\b0 5,342,115\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri129\qr\sl-173\sb7\f5\fs16\b0 2,346,416\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li51\ri57\qc\sl-173\sb7\f5\fs16\b0 5,887,685\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li123\sl-173\sb7\f5\fs16\b0 1,498,505\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li158\sl-173\sb7\f5\fs16\b0 6,557,642\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri18\qr\sl-173\sb7\f5\fs16\b0 1,638,138\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li219\sl-173\sb7\f5\fs16\b0 5,421,831\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri58\qr\sl-173\sb7\f5\fs16\b0 334,357\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri78\qr\sl-173\sb7\f5\fs16\b0 5,444,422\cell}\row
+\trowd\irow2\trgaph0\trrh200\trql\trleft1196
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2210
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3152
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4055
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5012
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5949
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx6891
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7833
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8806
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9701
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10714
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li95\sl-173\sb7\f5\fs16\b0\cf2 (11) \uc1\u9733 ?\uc1\u9733 ?\uc1\u9733 ?\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li82\sl-173\sb7\f5\fs16\b0\charscalex115\cf2 (12) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri90\qr\sl-173\sb7\f5\fs16\b0\charscalex110\cf2 (13) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li51\ri37\qc\sl-173\sb7\f5\fs16\b0\charscalex115\cf2 (14) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li163\sl-173\sb7\f5\fs16\b0\charscalex120\cf2 (15) \f5\fs16\b0\i0\charscalex160 \'96\'96\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li110\sl-173\sb7\f5\fs16\b0\charscalex115\cf2 (16) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri70\qr\sl-173\sb7\f5\fs16\b0\charscalex110\cf2 (17) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li141\sl-173\sb7\f5\fs16\b0\charscalex115\cf2 (18) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri54\qr\sl-173\sb7\f5\fs16\b0\charscalex110\cf2 (19) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li244\sl-173\sb7\f5\fs16\b0\charscalex120\cf2 (20) \f5\fs16\b0\i0\charscalex160 \'96\'96\'96\cell}\row
+\trowd\irow3\trgaph0\trrh200\trql\trleft1196
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2210
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3152
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4055
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5012
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5949
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx6891
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7833
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8806
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9701
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10714
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li93\sl-173\sb7\f5\fs16\b0 8,562,076\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li52\sl-173\sb7\f5\fs16\b0 5,751,168\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li166\sl-173\sb7\f5\fs16\b0 51.558\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li24\ri65\qc\sl-173\sb7\f5\fs16\b0 1,904,064\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li235\sl-173\sb7\f5\fs16\b0 0.126\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li80\sl-173\sb7\f5\fs16\b0 17,678.04\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li110\sl-173\sb7\f5\fs16\b0 8,114,820\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li179\sl-173\sb7\f5\fs16\b0 545.157\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li79\sl-173\sb7\f5\fs16\b0 3,693,645\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li271\sl-173\sb7\f5\fs16\b0 46,535\cell}\row
+\trowd\irow4\trgaph0\trrh200\trql\trleft1196
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2210
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3152
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4055
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5012
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5949
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx6891
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7833
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8806
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9701
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10714
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li124\sl-173\sb7\f5\fs16\b0\charscalex115\cf2 (21) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li82\sl-173\sb7\f5\fs16\b0\charscalex115\cf2 (22) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri90\qr\sl-173\sb7\f5\fs16\b0\charscalex110\cf2 (23) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li24\ri65\qc\sl-173\sb7\f5\fs16\b0\cf2 (24) \uc1\u9733 ?\uc1\u9733 ?\uc1\u9733 ?\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li106\sl-173\sb7\f5\fs16\b0\charscalex115\cf2 (25) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li110\sl-173\sb7\f5\fs16\b0\charscalex115\cf2 (26) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li169\sl-173\sb7\f5\fs16\b0\charscalex120\cf2 (27) \f5\fs16\b0\i0\expnd-8\expndtw-39\charscalex135 \uc1\u9733 ?\'96\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li141\sl-173\sb7\f5\fs16\b0\charscalex115\cf2 (28) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri54\qr\sl-173\sb7\f5\fs16\b0\charscalex110\cf2 (29) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri95\qr\sl-173\sb7\f5\fs16\b0\charscalex110\cf2 (30) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}\row
+\trowd\irow5\trgaph0\trrh200\trql\trleft1196
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2210
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3152
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4055
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5012
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5949
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx6891
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7833
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8806
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9701
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10714
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li93\sl-173\sb7\f5\fs16\b0 2,568,972\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li52\sl-173\sb7\f5\fs16\b0 3,926,832\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li212\sl-173\sb7\f5\fs16\b0 1,339\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li24\ri65\qc\sl-173\sb7\f5\fs16\b0 5,461,310\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li190\sl-173\sb7\f5\fs16\b0 41,227\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li149\sl-173\sb7\f5\fs16\b0 567,385\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li305\ri294\qc\sl-173\sb7\f5\fs16\b0 172\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li179\sl-173\sb7\f5\fs16\b0 958,395\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li239\sl-173\sb7\f5\fs16\b0 1,676\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri121\qr\sl-173\sb7\f5\fs16\b0 4,143,334\cell}\row
+\trowd\irow6\trgaph0\trrh200\trql\trleft1196
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2210
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3152
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4055
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5012
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5949
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx6891
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7833
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8806
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9701
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10714
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li277\sl-173\sb7\f5\fs16\b0\charscalex115\cf2 (31)\expnd-6\expndtw-32  \f5\fs16\b0\i0\expnd-1\expndtw-4 \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri37\qr\sl-173\sb7\f5\fs16\b0\charscalex110\cf2 (32) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri171\qr\sl-173\sb7\f5\fs16\b0\charscalex120\cf2 (33) \f5\fs16\b0\i0\expnd-12\expndtw-58\charscalex160 \'96\'96\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li28\ri65\qc\sl-173\sb7\f5\fs16\b0\cf2 (34) \uc1\u9733 ?\uc1\u9733 ?\uc1\u9733 ?\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li163\sl-173\sb7\f5\fs16\b0\charscalex120\cf2 (35) \f5\fs16\b0\i0\charscalex160 \'96\'96\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li80\sl-173\sb7\f5\fs16\b0\charscalex115\cf2 (36) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li78\sl-173\sb7\f5\fs16\b0\charscalex120\cf2 (37) \f5\fs16\b0\i0\charscalex135 \uc1\u9733 ?\'96\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li106\sl-173\sb7\f5\fs16\b0\charscalex120\cf2 (38) \f5\fs16\b0\i0\charscalex160 \'96\'96\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li18\sl-173\sb7\f5\fs16\b0\charscalex115\cf2 (39) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li34\sl-173\sb7\f5\fs16\b0\charscalex115\cf2 (40) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}\row
+\trowd\irow7\trgaph0\trrh200\trql\trleft1196
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2210
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3152
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4055
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5012
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5949
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx6891
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7833
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8806
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9701
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10714
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li406\sl-173\sb7\f5\fs16\b0 2,302\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li304\sl-173\sb7\f5\fs16\b0 1,901\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li244\sl-173\sb7\f5\fs16\b0 0.341\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li28\ri65\qc\sl-173\sb7\f5\fs16\b0 797\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li235\sl-173\sb7\f5\fs16\b0 1.223\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li210\sl-173\sb7\f5\fs16\b0 7,621\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li87\sl-173\sb7\f5\fs16\b0 213.364\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li179\sl-173\sb7\f5\fs16\b0 0.001\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li216\sl-173\sb7\f5\fs16\b0 956\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li232\sl-173\sb7\f5\fs16\b0 504\cell}\row
+\trowd\irow8\trgaph0\trrh200\trql\trleft1196
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2210
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3152
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4055
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5012
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5949
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx6891
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7833
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8806
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9701
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10714
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li305\sl-173\sb7\f5\fs16\b0\charscalex120\cf2 (41) \f5\fs16\b0\i0\expnd-8\expndtw-39\charscalex135 \uc1\u9733 ?\'96\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri37\qr\sl-173\sb7\f5\fs16\b0\charscalex110\cf2 (42) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri143\qr\sl-173\sb7\f5\fs16\b0\charscalex120\cf2 (43) \f5\fs16\b0\i0\expnd-8\expndtw-39\charscalex130 \uc1\u9733 ?\'96\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li28\ri65\qc\sl-173\sb7\f5\fs16\b0\charscalex120\cf2 (44) \f5\fs16\b0\i0\charscalex135 \uc1\u9733 ?\'96\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li106\sl-173\sb7\f5\fs16\b0\charscalex115\cf2 (45) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li80\sl-173\sb7\f5\fs16\b0\charscalex115\cf2 (46) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li49\sl-173\sb7\f5\fs16\b0\charscalex115\cf2 (47) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li20\sl-173\sb7\f5\fs16\b0\cf2 (48) \uc1\u9733 ?\uc1\u9733 ?\uc1\u9733 ?\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li18\sl-173\sb7\f5\fs16\b0\charscalex115\cf2 (49) \uc1\u9733 ?\uc1\u9733 ?\'96\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li63\sl-173\sb7\f5\fs16\b0\charscalex120\cf2 (50) \f5\fs16\b0\i0\charscalex135 \uc1\u9733 ?\'96\'96\cell}\row
+\trowd\irow9\trgaph0\trrh243\trql\trleft1196
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx2210
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx3152
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx4055
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5012
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx5949
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx6891
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx7833
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx8806
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx9701
+\clvertalt\clbrdrt\brdrnone\brdrw15\clbrdrl\brdrnone\brdrw15\clbrdrr\brdrnone\brdrw15\clbrdrb\brdrnone\brdrw15\cltxlrtb\cellx10714
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li521\sl240\slmult1\sb7\f5\fs16\b0 30\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li258\sl240\slmult1\sb7\f5\fs16\b0 83,554\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\ri152\qr\sl240\slmult1\sb7\f5\fs16\b0 220.974\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li28\ri65\qc\sl240\slmult1\sb7\f5\fs16\b0 2,922\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li144\sl240\slmult1\sb7\f5\fs16\b0 617.021\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li201\ri308\qc\sl240\slmult1\sb7\f5\fs16\b0 23\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li247\sl240\slmult1\sb7\f5\fs16\b0 976\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li18\sl240\slmult1\sb7\f5\fs16\b0 3,461.449\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li56\sl240\slmult1\sb7\f5\fs16\b0 289.231\cell}
+{\pard\plain\intbl\s5\nooverflow\nocwrap\lnbrkrule\li72\sl240\slmult1\sb7\f5\fs16\b0 460.025\cell}\row\pard\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f3\fs20\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f3\fs20\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f3\fs20\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f3\fs20\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f3\fs20\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f3\fs20\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f3\fs20\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb3\f3\fs18\b1\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li103\sl240\slmult1\sb99\tx11222{\field {\fldinst { HYPERLINK "http://www.sorobanexam.org/ws/serve/wJZruT" }}{\fldrslt \f2\fs18\b0\i1 www.sorobanexam.org/ws/serve/wJZruT}}
+\f2\fs18\b0\i1 \tab \f4\fs18\b0\i1 Page 1\par}
